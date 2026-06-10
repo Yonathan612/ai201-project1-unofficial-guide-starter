@@ -1,0 +1,11 @@
+Professor Foster - CS 250: Computer Organization
+
+Students say Professor Foster is intelligent but sometimes moves quickly. The course covers binary, assembly basics, memory, CPU organization, and low-level computer systems.
+
+The workload is moderate. Labs are the most important part of the class. Students say labs can be confusing at first because the material is less intuitive than high-level programming.
+
+Exams are challenging and often ask students to apply concepts, not just define terms. Students mention binary arithmetic, memory addressing, and instruction cycles as common exam topics. Review sessions are helpful but not enough by themselves.
+
+Feedback is mixed. Some students say lab feedback is clear, while others wish comments were more detailed. Office hours are strongly recommended because in-person explanations are better than written feedback.
+
+Best advice from students: do not skip labs, practice binary conversions, and review diagrams of memory and CPU components.

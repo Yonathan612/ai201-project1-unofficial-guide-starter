@@ -1,0 +1,11 @@
+Professor Evans - CS 330: Software Engineering
+
+Students describe Professor Evans as organized, professional, and focused on real-world development habits. The course includes group work, version control, requirements, testing, design documents, and presentations.
+
+The workload is project-based. Students say the course is not difficult because of exams, but because group coordination can become stressful. Teams that communicate early tend to do much better.
+
+Exams and quizzes are lighter than the project work. Students say most grades come from milestones, documentation, code quality, and final presentation. The instructor cares about process as much as the final product.
+
+Professor Evans gives detailed feedback on project proposals and design documents. Students appreciate that the feedback helps teams improve before final submission. However, late work policies are strict.
+
+Best advice from students: choose a reliable team, use GitHub from the beginning, document decisions, and do not ignore project milestones.

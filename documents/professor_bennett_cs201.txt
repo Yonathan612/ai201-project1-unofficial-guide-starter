@@ -1,0 +1,11 @@
+Professor Bennett - CS 201: Data Structures
+
+Students say Professor Bennett is knowledgeable but demanding. His course is considered one of the harder lower-level computer science classes because the assignments require careful thinking and debugging.
+
+The workload is heavy. Programming projects can take six to ten hours, especially projects involving linked lists, trees, recursion, and hash tables. Students warn that waiting until the weekend before the deadline is risky.
+
+Exams are difficult and focus on problem solving rather than memorization. Students say the exams include tracing code, analyzing runtime, and writing short algorithm explanations. Exams are not always directly copied from homework, but homework prepares students for the style.
+
+Professor Bennett gives useful but sometimes brief feedback. Students who attend office hours report getting much clearer explanations. He expects students to ask specific questions rather than saying they are confused about everything.
+
+Best advice from students: start projects early, draw diagrams for data structures, and use office hours before the deadline.

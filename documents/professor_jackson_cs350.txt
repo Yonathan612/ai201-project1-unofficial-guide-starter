@@ -1,0 +1,11 @@
+Professor Jackson - CS 350: Computer Networks
+
+Students describe Professor Jackson as clear, calm, and good at connecting theory to real systems. Topics include TCP/IP, routing, DNS, HTTP, network layers, and basic security concepts.
+
+The workload is moderate. Labs involve packet analysis, networking commands, and short written explanations. Students say the labs are helpful because they make abstract concepts more concrete.
+
+Exams are fair and focus on understanding how systems communicate. Students mention that drawing the network stack and explaining packet flow helps with studying. Memorizing terms alone is not enough.
+
+Professor Jackson gives strong feedback on lab reports. Students say he explains what was missing in their reasoning and how to improve technical explanations. He is also considered approachable after class.
+
+Best advice from students: learn the OSI and TCP/IP models early, practice explaining protocols in plain language, and take lab reports seriously.

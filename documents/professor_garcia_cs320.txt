@@ -1,0 +1,11 @@
+Professor Garcia - CS 320: Web Development
+
+Students describe Professor Garcia as energetic, approachable, and practical. The class focuses on HTML, CSS, JavaScript, APIs, and building small web applications.
+
+The workload is moderate and mostly project-based. Students enjoy the creative freedom but say projects take longer than expected when debugging layout or JavaScript errors.
+
+Exams are not the main challenge. Students say quizzes cover vocabulary and core concepts, but the larger grades come from projects. Projects are graded on functionality, design, responsiveness, and code organization.
+
+Professor Garcia gives helpful feedback during class workshops. Students say she is good at pointing out small UI and usability improvements. Email response time is usually fast.
+
+Best advice from students: test your site in the browser often, keep files organized, and ask for feedback before the final project deadline.

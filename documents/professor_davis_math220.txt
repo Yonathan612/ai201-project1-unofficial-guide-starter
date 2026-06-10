@@ -1,0 +1,11 @@
+Professor Davis - MATH 220: Linear Algebra
+
+Students say Professor Davis is clear, structured, and very lecture-based. The class focuses on matrices, systems of equations, vector spaces, eigenvalues, and proofs.
+
+The workload is moderate to heavy depending on math background. Homework is assigned almost every week and can be time-consuming because problems require multiple steps. Students say the textbook is useful for extra examples.
+
+Exams are heavily based on homework and examples shown in lecture. Students who redo homework problems before exams usually perform better. Some students say the exams are long but fair.
+
+Feedback is average. Professor Davis usually marks mistakes clearly but does not always provide long written explanations. Students say office hours are helpful for understanding proof-based questions.
+
+Best advice from students: do every homework problem, practice row reduction until it feels automatic, and ask questions early when proofs become confusing.

@@ -1,0 +1,11 @@
+Professor Chang - CS 310: Database Systems
+
+Students describe Professor Chang as practical and project-focused. Many reviews say the class is useful because students build real SQL queries and learn database design through hands-on assignments.
+
+The workload is moderate. Weekly labs involve SQL, normalization, ER diagrams, joins, and small database design tasks. Students say the labs are manageable when they follow the examples from lecture.
+
+Exams are fair and usually match the topics emphasized in class. Students mention that understanding joins, keys, indexes, and normalization is more important than memorizing definitions. Review sheets are helpful.
+
+Professor Chang gives detailed feedback on database design projects. Students like that she explains why a schema is flawed instead of only marking it wrong. Some students say grading can be strict, especially on normalization mistakes.
+
+Best advice from students: practice SQL regularly, review old labs before exams, and pay close attention to ER diagrams.

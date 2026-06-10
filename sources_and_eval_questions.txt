@@ -1,0 +1,29 @@
+Domain: Student-generated professor and course reviews.
+
+Documents:
+1. professor_anderson_cs101.txt
+2. professor_bennett_cs201.txt
+3. professor_chang_cs310.txt
+4. professor_davis_math220.txt
+5. professor_evans_cs330.txt
+6. professor_foster_cs250.txt
+7. professor_garcia_cs320.txt
+8. professor_harris_cs340.txt
+9. professor_ivanov_math160.txt
+10. professor_jackson_cs350.txt
+
+Suggested evaluation questions:
+1. Which professor is best for a beginner in programming?
+Expected answer: Professor Anderson, because students describe him as patient, organized, beginner-friendly, and helpful for students new to coding.
+
+2. Which course has the heaviest programming project workload?
+Expected answer: Professor Bennett's CS 201 Data Structures course, because projects can take six to ten hours and require careful debugging.
+
+3. Which professor gives detailed feedback on database design projects?
+Expected answer: Professor Chang, because students say she explains why a schema is flawed and gives detailed feedback.
+
+4. Which course is most dependent on group coordination?
+Expected answer: Professor Evans's CS 330 Software Engineering course, because the workload is project-based and group coordination can become stressful.
+
+5. What should students do to prepare for Computer Networks exams?
+Expected answer: For Professor Jackson's CS 350 class, students should learn the OSI/TCP/IP models, understand packet flow, and practice explaining protocols.

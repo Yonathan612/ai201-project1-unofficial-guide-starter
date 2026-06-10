@@ -1,0 +1,11 @@
+Professor Anderson - CS 101: Introduction to Computer Science
+
+Students describe Professor Anderson as patient, organized, and beginner-friendly. Reviews consistently say that he explains programming concepts slowly and gives many examples during class. Students who are new to coding say his lectures make Python less intimidating.
+
+The workload is moderate. Weekly homework assignments usually take between two and four hours. Students say the assignments are fair if they start early, but stressful if left until the night before.
+
+Exams are mostly based on lecture examples and homework problems. Several students mention that attending class is more useful than only reading the textbook. Professor Anderson gives a short review session before each exam.
+
+Feedback quality is strong. Students report that he writes useful comments on programming assignments and explains where logic errors happened. He is also responsive to emails.
+
+Best advice from students: go to class, practice the sample problems, and start homework early.

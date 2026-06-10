@@ -1,0 +1,11 @@
+Professor Harris - CS 340: Algorithms
+
+Students say Professor Harris teaches an important but difficult course. The class covers algorithm analysis, recursion, divide and conquer, greedy algorithms, dynamic programming, and graph algorithms.
+
+The workload is heavy. Homework problems often require written explanations and proofs, not just code. Students say assignments take time because understanding the idea is harder than writing the final answer.
+
+Exams are difficult and require practice. Students mention that questions often combine runtime analysis with algorithm design. Some exams include problems that look different from homework but use the same concepts.
+
+Professor Harris gives useful feedback on written solutions, especially when students explain their reasoning. However, grading can feel strict because small mistakes in logic can cost points.
+
+Best advice from students: practice many problems, explain solutions out loud, and do not memorize algorithms without understanding why they work.
